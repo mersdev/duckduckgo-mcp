@@ -5,5 +5,6 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
+    "duckduckgo-search>=8.0.1",
     "mcp[cli]>=1.6.0",
 ]
