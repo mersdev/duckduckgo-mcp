@@ -1,6 +1,6 @@
 # DuckDuckGo Search MCP
 
-A Python-based MCP (Machine Comprehension Protocol) server that provides specialized search functionality using DuckDuckGo's search engine. This implementation offers three distinct search tools:
+A Python-based MCP (Model Context Protocol) server that provides specialized search functionality using DuckDuckGo's search engine. This implementation offers three distinct search tools:
 
 - GitHub Code Search
 - Malaysia News Search (NST)
